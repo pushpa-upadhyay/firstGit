@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 class Git{
-public statuc void main()
+public static void main()
 {
 System.out.println("TEST");
 }
 }
+=======
+Git TEST
+
+In branch
+>>>>>>> bug123
